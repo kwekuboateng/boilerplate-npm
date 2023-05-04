@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Frederick Boateng",
+	"description": "a packagae.json manager to manage third party libraries",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
